@@ -1,0 +1,48 @@
+_viminfo
+AppData
+Application\ Data
+ASCII.txt
+check_lic.bat
+config
+Contacts
+Cookies
+Corel
+Desktop
+dir_list.txt
+Documents
+Downloads
+DriveMapping_Script.vbs
+Favorites
+FilenameChars.txt
+g2mdlhlpx.exe
+IETldCache
+Links
+Local\ Settings
+maze
+Music
+My\ Documents
+NetHood
+New\ folder
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+ntuser.pol
+perlver.txt
+Pictures
+PrintHood
+PrivacIE
+Recent
+Sandbox
+Saved\ Games
+Searches
+SendTo
+settings
+Start\ Menu
+Templates
+Tracing
+userdata
+Videos
