@@ -2,6 +2,9 @@
 
 ##Made a simple ASCII table
 
+Note the use of three backticks before and after; these denote "code" which
+is rendered monospaced.
+
 
 ```
 RowID  Col1    Col2    Col3    Col4    Col5    Col6    Col7    Col8    Col9    Col10   
