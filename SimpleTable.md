@@ -28,6 +28,9 @@ RowID  Col1    Col2    Col3    Col4    Col5    Col6    Col7    Col8    Col9    C
 
 ##Adding a wider table
 
+Note that although this is displayed wrapped in edit mode, in viewing mode Github displays this wide table
+as a scrollable window.
+
 ```
 RowID  Col1    Col2    Col3    Col4    Col5    Col6    Col7    Col8    Col9    Col10   Col11   Col12   Col13   Col14   Col15   Col16   Col17  Col18   Col19   
 0FB5   35      86      27      962266  35978   974020  29      90      43      39      31      93      8       90      31      80      51     21      50      
